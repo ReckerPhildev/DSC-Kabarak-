@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "aura-client-master"
+    "default": "aura-client-master",
+    "staging": "dsckabarak",
+    "production": "dsckabarak"
   }
 }

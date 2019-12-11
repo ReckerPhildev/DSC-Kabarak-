@@ -3,7 +3,7 @@
         <v-layout wrap align-center justify-center row fill-height >
            <v-flex xs12 md3 lg3 class="pa-2">
                <p class="google-font" style="font-size:180%">What we do?</p>
-               <p class="google-font" style="font-size:110%">Developer Student Club (DSCs) are university based community groups for students interested in Google developer technologies..</p>
+               <p class="google-font" style="font-size:110%">Developer Student Club (DSCs) are university based community groups for students interested in Google technologies..</p>
 
                <p class="google-font" style="font-size:110%">About different Google technologies :)</p>
 
