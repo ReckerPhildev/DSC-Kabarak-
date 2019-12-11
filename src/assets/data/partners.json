@@ -1,7 +1,7 @@
 [
     {
-        "name":"GDG",
-        "link":"https://developers.google.com/groups",
+        "name":"DSC",
+        "link":"https://meetup.com/DSCKabarak",
         "img":"gdglogo.png"
     },
     {
@@ -10,9 +10,15 @@
         "img":"wtm.png"
     },
     {
-        "name":"GDG[x]",
-        "link":"https://github.com/gdg-x",
-        "img":"gdg-x.svg"
+        "name":"DSC Kabarak",
+        "link":"https://github.com/DSCKabarak",
+        "img":"dsckabarak.jpeg"
+    },
+    {
+        "name":"JetBrains",
+        "link":"https://jetbrains.com",
+        "img":"jetbrains_logo_detail.jpg"
+        
     }
 
 ]

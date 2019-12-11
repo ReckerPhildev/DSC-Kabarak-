@@ -1,7 +1,7 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
+        "name":"Ian Njuguna",
+        "designation":"Flutter Developer",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
         "github":"https://github.com/",
@@ -9,8 +9,8 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Management",
+        "name":"Emmanuel Changole",
+        "designation":"Android Developer",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/",
         "github":"",
@@ -18,8 +18,8 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Development",
+        "name":"Swai",
+        "designation":"Android Developer",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
         "github":"https://www.github.com/",
@@ -27,8 +27,8 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Development",
+        "name":"Wesly",
+        "designation":"Web Developer",
         "twitter":"https://twitter.com/",
         "linkedin":"https://linkedin.com/",
         "github":"https://github.com/",
@@ -36,8 +36,17 @@
         "website":"https://github.com"
     },
     {
-        "name":"Name",
-        "designation":"Development",
+        "name":"Kevin Mbuthia",
+        "designation":"Web Developer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"",
+        "github":"https://github.com/",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Walter Kai",
+        "designation":"Web Developer",
         "twitter":"https://twitter.com/",
         "linkedin":"",
         "github":"https://github.com/",
