@@ -1,0 +1,55 @@
+[debug] [2019-12-12T12:53:05.227Z] ----------------------------------------------------------------------
+[debug] [2019-12-12T12:53:05.233Z] Command:       /usr/bin/node /usr/local/bin/firebase init
+[debug] [2019-12-12T12:53:05.234Z] CLI Version:   7.9.0
+[debug] [2019-12-12T12:53:05.234Z] Platform:      linux
+[debug] [2019-12-12T12:53:05.234Z] Node Version:  v10.15.2
+[debug] [2019-12-12T12:53:05.235Z] Time:          Thu Dec 12 2019 15:53:05 GMT+0300 (East Africa Time)
+[debug] [2019-12-12T12:53:05.235Z] ----------------------------------------------------------------------
+[debug] [2019-12-12T12:53:05.235Z] 
+[debug] [2019-12-12T12:53:05.247Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-12-12T12:53:05.248Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/recker/Projects/Vue/Nuxt/aura
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using aura-client-master.
+[debug] [2019-12-12T12:53:09.304Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/aura-client-master  
+ 
+[debug] [2019-12-12T12:53:10.679Z] <<< HTTP RESPONSE 403
+[debug] [2019-12-12T12:53:10.679Z] <<< HTTP RESPONSE BODY
+[debug] [2019-12-12T12:53:10.683Z] HTTP Error: 403, The caller does not have permission
+[debug] [2019-12-12T12:53:12.573Z] FirebaseError: HTTP Error: 403, The caller does not have permission
+    at module.exports (/usr/local/lib/node_modules/firebase-tools/lib/responseToError.js:38:12)
+    at Request._callback (/usr/local/lib/node_modules/firebase-tools/lib/api.js:39:35)
+    at Request.self.callback (/usr/local/lib/node_modules/firebase-tools/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:189:13)
+    at Request.EventEmitter.emit (domain.js:441:20)
+    at Request.<anonymous> (/usr/local/lib/node_modules/firebase-tools/node_modules/request/request.js:1161:10)
+    at Request.emit (events.js:189:13)
+    at Request.EventEmitter.emit (domain.js:441:20)
+    at IncomingMessage.<anonymous> (/usr/local/lib/node_modules/firebase-tools/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:277:13)
+    at IncomingMessage.emit (events.js:194:15)
+    at IncomingMessage.EventEmitter.emit (domain.js:441:20)
+    at endReadableNT (_stream_readable.js:1103:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[error] 
+[error] Error: Failed to get Firebase project aura-client-master. Please make sure the project exists and your account has permission to access it.
