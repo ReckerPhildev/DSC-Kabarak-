@@ -1,6 +1,6 @@
 {
-  "name": "GDG Web App",
-  "short_name": "GDG Web App",
+  "name": "DSC Web App",
+  "short_name": "DSC Web App",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
