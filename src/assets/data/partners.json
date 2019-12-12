@@ -10,15 +10,26 @@
         "img":"wtm.png"
     },
     {
-        "name":"DSC Kabarak",
-        "link":"https://github.com/DSCKabarak",
-        "img":"dsckabarak.jpeg"
+        "name":"GitHub Education",
+        "link":"https://education.github.com",
+        "img":"githubEducation.jpeg"
+        
     },
     {
         "name":"JetBrains",
         "link":"https://jetbrains.com",
         "img":"jetbrains_logo_detail.jpg"
         
+    },
+    {
+        "name":"Gitkraken",
+        "link":"https://gitkraken.com",
+        "img":"gitkraken.jpeg"
+    },
+    {
+        "name":"Gatsby",
+        "link":"https://gatsbyjs.org",
+        "img":"gatsby.png"
     }
 
 ]

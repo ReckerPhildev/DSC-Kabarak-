@@ -1,25 +1,43 @@
 [
     {
         "name":"Ian Njuguna",
-        "designation":"Flutter Developer",
+        "designation":"DSC Co-lead",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
         "github":"https://github.com/",
-        "profileImage":"",
+        "profileImage":"ian.jpg",
+        "website":""
+    },
+    {
+        "name":"Kevin Mbuthia",
+        "designation":"DSC Co-lead",
+        "twitter":"https://twitter.com/mbuthia2kevin",
+        "linkedin":"https://www.linkedin.com/in/kevin-mbuthia-",
+        "github":"https://github.com/Kevinmbuthia",
+        "profileImage":"kevin.jpg",
+        "website":""
+    },
+    {
+        "name":"Walter Kai",
+        "designation":"DSC Co-lead",
+        "twitter":"https://twitter.com/walterkaibanda",
+        "linkedin":"https://linkedin.com/in/walterkaibanda",
+        "github":"https://github.com/WalterBanda",
+        "profileImage":"walter.jpg",
         "website":""
     },
     {
         "name":"Emmanuel Changole",
-        "designation":"Android Developer",
+        "designation":"Project Lead",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"",
+        "github":"https://github.com/EmmanuelChangole",
+        "profileImage":"manu.jpg",
         "website":""
     },
     {
         "name":"Swai",
-        "designation":"Android Developer",
+        "designation":"Project Lead",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
         "github":"https://www.github.com/",
@@ -27,30 +45,13 @@
         "website":""
     },
     {
-        "name":"Wesly",
-        "designation":"Web Developer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Kevin Mbuthia",
-        "designation":"Web Developer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Walter Kai",
-        "designation":"Web Developer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
+        "name":"Wes Okemwa",
+        "designation":"Project Lead",
+        "twitter":"https://twitter.com/okemwa_wes",
+        "linkedin":"https://linkedin.com/in/okemwa-wesley-06138a194",
+        "github":"https://github.com/1wes",
+        "profileImage":"wes.jpg",
         "website":""
     }
+    
 ]

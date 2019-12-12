@@ -1,65 +1,74 @@
 [
     {
         "name":"Mercy Tanui",
-        "designation":"Android Developer",
+        "designation":"DSC Lead",
         "twitter":"https://twitter.com/chemutai_tanui",
         "linkedin":"https://www.linkedin.com/chemutai_tanui",
         "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "profileImage":"tanui.jpg",
         "website":""
     },
     {
         "name":"Philip Matunda",
-        "designation":"Software Developer",
+        "designation":"Mentor",
         "twitter":"https://twitter.com/matundaphilip",
         "linkedin":"https://www.linkedin.com/in/philip-matunda-b83a9915b/",
         "github":"https://github.com/ReckerPhildev",
-        "profileImage":"",
+        "profileImage":"phil.jpg",
         "website":""
     },
     {
         "name":"Timothy Kipkosgei",
-        "designation":"Android Developer",
+        "designation":"Mentor",
         "twitter":"https://twitter.com/timz_owen",
         "linkedin":"https://www.linkedin.com/in/timothy-owen-465895169/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJRiFtDO4QsWms%2F3Fyn%2F3XQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-browsemap_profile",
         "github":"https://github.com/timzowen",
-        "profileImage":"",
+        "profileImage":"tim.jpg",
         "website":""
     },
     {
         "name":"Libére Gatare",
-        "designation":"Software Engineer",
+        "designation":"Mentor",
         "twitter":"https://twitter.com/LibereGatare",
         "linkedin":"https://www.linkedin.com/in/gatare-lib%C3%A8re/",
         "github":"https://github.com/gatarelib",
-        "profileImage":"",
+        "profileImage":"sango.jpg",
         "website":""
     },
     {
         "name":"Yash Patel",
-        "designation":"DevOps Engineer",
+        "designation":"Mentor",
         "twitter":"https://twitter.com/Yash___Patel_",
         "linkedin":"https://www.linkedin.com/in/vrijraj",
         "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "profileImage":"yash.jpg",
         "website":""
     },
     {
         "name":"Senior Sebarundi",
-        "designation":"Software Developer",
+        "designation":"Mentor",
         "twitter":"https://twitter.com/senior",
         "linkedin":"https://www.linkedin.com/in/senior-sebarundi-49a897152/",
         "github":"https://github.com/Senior033",
-        "profileImage":"",
+        "profileImage":"senior.jpg",
         "website":""
     },
     {
         "name":"Maureen Bett",
-        "designation":"Android Developer",
+        "designation":"DSC Co-lead",
         "twitter":"https://twitter.com/MaureenRalph3_",
         "linkedin":"https://www.linkedin.com/in/maureen",
         "github":"https://github.com/moh",
-        "profileImage":"",
+        "profileImage":"moh.jpg",
+        "website":""
+    },
+    {
+        "name":"Sarah Chitaha",
+        "designation":"Mentor",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/sarah-chitaha-a36178165/?lipi=urn%3Ali%3Apage%3Ad_flagship3_me_wvm_v2%3BKIrbtQgZQOGKlz0pQ8%2Bc%2BA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_me_wvm_v2-profileview_single",
+        "github":"https://github.com/sarahchitaha",
+        "profileImage":"chitaha.jpeg",
         "website":""
     }
 
